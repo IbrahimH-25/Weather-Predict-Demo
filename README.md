@@ -19,6 +19,6 @@
   - This method is a short version of the entire notebook, just using the neccesary code to run, create a model, and predict the value with a output that shows the predicted value ad the accuracy of the prediction.
 
 ## Sources
-- can be run on google colab - https://colab.research.google.com/drive/11h-pof9e9gPl_gFD4QQZrUl3HwEFdsmG?usp=sharing
-- Dataset Used
+- can be run on google colab - https://colab.research.google.com/github/IbrahimH-25/Weather-Predict-Demo/blob/main/weatherPredictCode.ipynb
+- Dataset Used - https://www.kaggle.com/datasets/ananthr1/weather-prediction
 - Can be downloaded and run with a program that runs jupyter notebooks, must keep csv file in the same folder as notebook.
